@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Topper",
+  "description": "Complete trilingual (Telugu, Hindi, English) TS SCERT & NCERT study platform for Class 6-12, NEET, JEE, UPSC, Groups, with AI voice assistant, interactive lesson videos, diagrams, quizzes, and career guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
